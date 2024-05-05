@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mo97mi
 - 👀 I’m interested in ML Engineering
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Data project
+- 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me mo97mi97@gmail.com
 - 😄 Pronouns: there is only 2 gender and i am male, let keep our languages plain and clean
 - ⚡ Fun fact: Super minimalist
